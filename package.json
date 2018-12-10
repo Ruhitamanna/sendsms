@@ -1,0 +1,14 @@
+{
+  "name": "blog",
+  "version": "1.0.0",
+  "description": "blog create",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app"
+  },
+  "author": "ruhi",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
